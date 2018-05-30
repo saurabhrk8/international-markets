@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<company>
+      <tran id = "1001">
+          <entity>foo</entity>
+          <buysell>b</buysell>
+          <agreedFix>0.50</agreedFix>
+          <curr>SGP</curr>
+          <instructionDate>12-01-2016</instructionDate>
+          <settelmentDate>16-01-2016</settelmentDate>
+          <Units>200</Units>
+          <priceperunit>100.25</priceperunit>
+          <customerName>foo</customerName>
+       </tran>
+       <tran id = "1002">
+          <entity>boo</entity>
+          <buysell>s</buysell>
+          <agreedFix>0.50</agreedFix>
+          <curr>SGP</curr>
+          <instructionDate>08-01-2016</instructionDate>
+          <settelmentDate>13-01-2016</settelmentDate>
+          <Units>200</Units>
+          <priceperunit>100.25</priceperunit>
+          <customerName>boo</customerName>
+      </tran>
+      <tran id = "1003">
+          <entity>boo</entity>
+          <buysell>s</buysell>
+          <agreedFix>0.50</agreedFix>
+          <curr>SGP</curr>
+          <instructionDate>12-01-2016</instructionDate>
+          <settelmentDate>16-01-2016</settelmentDate>
+          <Units>300</Units>
+          <priceperunit>100.25</priceperunit>
+          <customerName>boo</customerName>
+      </tran>
+</company>
+      
+    
+      
+
+          
